@@ -1,3 +1,7 @@
 #git course
 
-thhis is random file
+
+
+
+
+this is a bug file
